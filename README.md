@@ -58,7 +58,7 @@ The project follows a structured data preparation workflow:
 ```text
 Week1-Data-Science/
 │
-├── Week1_Data_Cleaning_YourName.ipynb
+├── Week1_Data_Cleaning_Yumnah.ipynb
 ├── applicants_cleaned.csv
 └── README.md
 ```
