@@ -74,21 +74,12 @@ Through this project, I developed practical experience in:
 - Validating data quality before downstream analysis.
 - Building a reproducible, notebook-based data preparation workflow.
 
-## Project Deliverables
 
-- **Jupyter Notebook:** Documents the data inspection, cleaning steps, decisions, and validation process.
-- **Cleaned CSV Dataset:** Contains the processed applicant records for further exploration and analysis.
-
-## Internship Information
-
-**Program:** Data Science Internship  
-**Organization:** NextGenLearners  
-**Project:** Week 1 — Data Cleaning and Exploratory Data Analysis
-
----
 
 *This project demonstrates foundational data preparation skills that support reliable exploratory data analysis and future data science workflows.*
 
+
+---
 
 
 
@@ -177,6 +168,5 @@ Through this project, I developed practical experience in:
 - Interpreting data distributions and identifying trends.
 - Communicating analytical findings in a structured format.
 
----
 
 *This project demonstrates foundational exploratory data analysis and visualization skills that support data-driven decision-making and further data science workflows.*
