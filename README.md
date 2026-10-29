@@ -88,3 +88,95 @@ Through this project, I developed practical experience in:
 ---
 
 *This project demonstrates foundational data preparation skills that support reliable exploratory data analysis and future data science workflows.*
+
+
+
+
+# Week 2 — Exploratory Data Analysis (EDA)
+
+## Project Overview
+
+This project was completed as part of the **Data Science Internship at NextGenLearners**. It focuses on Exploratory Data Analysis (EDA) using Python, Pandas, Matplotlib, and Seaborn to explore applicant data, identify patterns, and extract meaningful insights through data analysis and visualization.
+
+Exploratory Data Analysis is an important stage of the data science workflow that helps understand dataset characteristics, examine distributions, identify trends, and investigate relationships between variables before further analysis.
+
+The objective of this project is to analyze the applicant dataset from different perspectives, understand application patterns, and communicate findings through meaningful visualizations.
+
+## Project Objectives
+
+- **Dataset Exploration:** Examine the dataset structure, dimensions, columns, and data types.
+- **Domain Analysis:** Analyze the distribution of applications across different domains.
+- **Monthly Trend Analysis:** Examine application trends across different months.
+- **Application Status Analysis:** Investigate the distribution of selected, rejected, and under-review applications.
+- **University Analysis:** Identify universities contributing the highest number of applicants.
+- **Weekday Analysis:** Explore application patterns across different days of the week.
+- **Data Visualization:** Create charts to present distributions, comparisons, and trends clearly.
+- **Insight Extraction:** Summarize meaningful findings from the exploratory analysis.
+
+## Dataset Description
+
+The dataset contains applicant information associated with internship applications. The analysis examines application domains, dates, universities, and application statuses to understand the distribution and patterns of applicant activity.
+
+The following aspects are explored in the notebook:
+
+| **Analysis Area** | **Description** |
+| ----------------- | --------------- |
+| Domain Distribution | Number of applications across different domains |
+| Monthly Trends | Application counts by month |
+| Application Status | Distribution of selected, rejected, and under-review applications |
+| University Analysis | Applicant counts across universities |
+| Weekday Analysis | Application counts by day of the week |
+
+## Methodology
+
+The project follows a structured exploratory analysis workflow:
+
+1. **Initial Exploration:** Inspected the dataset using Pandas to understand its structure and contents.
+2. **Domain Analysis:** Examined application counts across different domains.
+3. **Temporal Analysis:** Investigated monthly application trends and weekday-level patterns.
+4. **Status Analysis:** Analyzed application outcomes and the distribution of applicant statuses.
+5. **University Analysis:** Compared applicant counts across universities.
+6. **Data Visualization:** Used Matplotlib and Seaborn to represent findings through charts.
+7. **Insight Interpretation:** Interpreted the observed patterns and summarized the key findings.
+
+## Tools and Technologies
+
+- **Python** — programming language used for data analysis.
+- **Pandas** — used for data exploration, grouping, aggregation, and analysis.
+- **Matplotlib** — used to create data visualizations.
+- **Seaborn** — used to create statistical charts and explore distributions.
+- **Jupyter Notebook** — used to execute code and document the analysis.
+
+## Key Findings
+
+The exploratory analysis produced the following observations:
+
+- **Domain Analysis:** Machine Learning recorded the highest number of applications, with 105 applicants.
+- **Monthly Trends:** June 2026 recorded the highest monthly application count, with 89 applications.
+- **Application Status:** Out of 485 applicants, 144 were selected, 166 were rejected, and 175 remained under review.
+- **University Analysis:** UET Lahore contributed the highest number of applicants, with 56.
+- **Weekday Analysis:** Saturday recorded the highest number of applications, with 79.
+
+## Repository Structure
+
+```text
+Week2-EDA/
+│
+├── Week2_EDA_Yumnah(4).ipynb
+└── README.md
+```
+
+## Key Learning Outcomes
+
+Through this project, I developed practical experience in:
+
+- Exploring datasets using Pandas.
+- Grouping and aggregating data to answer analytical questions.
+- Analyzing categorical and time-based application patterns.
+- Creating clear visualizations using Matplotlib and Seaborn.
+- Interpreting data distributions and identifying trends.
+- Communicating analytical findings in a structured format.
+
+---
+
+*This project demonstrates foundational exploratory data analysis and visualization skills that support data-driven decision-making and further data science workflows.*
